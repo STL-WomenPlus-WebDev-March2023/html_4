@@ -1,1 +1,45 @@
 /* Write your CSS here! */
+header h1 {
+    text-align: center;
+    }
+
+body {
+    display: block;
+    background-color: rgb(143, 156, 121);
+    width: 90%;
+    padding: 25px;    
+    text-align: center;
+    margin: 8px;
+}
+
+figcaption {
+    font-style: italic;    
+}
+
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
+.orange-paragraph {
+    color: rgb(175, 119, 14);
+}
+
+#fontParagraph {
+    font-style: Creepster;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
+}
+
+.funParagraph {
+    color: green;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+}
